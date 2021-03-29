@@ -1,0 +1,11 @@
+Input Spectra File Base: /home/polaris/Research/data/sim_data/1024_40Mpc_z49/w0_0.0_wa_neg3.0/exspec_noise_output/exspec-snapshot-fakegas_004-dspec-tspec/noise_specs/snapshot-fakegas_004-dspec-tspec-spectrum-noise_
+Total Number of Input Spectra: 1152
+Number of Input Spectra To Use: 800
+Redshift: 2.2
+Total Number of Power Spectra: 1
+Snapshot Number: 4
+use_sdss: 0
+use_spec_k: 0
+use_mcdonald: 1
+use_all: 1
+use_noise: 1

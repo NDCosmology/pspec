@@ -1,0 +1,10 @@
+data/src/allvars.c.i
+data/src/power_spectrum.c.i
+data/src/main.c.i
+data/src/proto.h.i
+data/src/utils.c.i
+data/src/read_spectra.c.i
+data/src/write.c.i
+data/src/initialize.c.i
+data/Makefile.i
+data/src/allvars.h.i
